@@ -5,7 +5,9 @@ const Header = ()=> {
     return (
         <>
             <HeaderWrapper>
-                <p>Logo</p>
+                <p className="logo">
+                    <img src="https://res.cloudinary.com/diq1rd6ve/image/upload/v1726157424/axbonmbasvpdhfn6aztn.png" alt="logo"/>
+                </p>
                 <nav>
                     <ul>
                         <li>Home</li>
